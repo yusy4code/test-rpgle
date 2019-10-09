@@ -7,7 +7,7 @@ UserName = 'Mohammed Yusuf';
 
 Dsply UserName;
 
-for i = 1 to 10;
+for i = 1 to 5;
     Dsply i;
 endfor;
 
